@@ -1,0 +1,12 @@
+
+Recursion:
+A function calling itself until a base condition is meet.
+There are 2 ways you do recursion generally,
+    - functional (uses return statement)
+    - parameterized (pass all inputs, results in params)
+
+Stack(call stack) space - include it in the space complexity
+
+Backtracking:
+This is an algorithm technique to solve a problem, you will go down and eliminate
+the wrong sets and continue recursion.

@@ -1,0 +1,30 @@
+
+t
+java:S2142+"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+K
+java:S2209"5Change this instance-reference to a static reference.(şİ“î
+K
+java:S2209"5Change this instance-reference to a static reference.(¾¢— 
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¹¸Íı
+K
+java:S2209"5Change this instance-reference to a static reference.(¹¸Íı
+K
+java:S2209"5Change this instance-reference to a static reference.(‰Ëš¨
+F
+java:S2446"0"notify" may not wake up the appropriate thread.(ŒâÌ†
+P
+java:S2209!"5Change this instance-reference to a static reference.(†ß¨¨úÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(¹¸Íı
+K
+java:S2209%"5Change this instance-reference to a static reference.(¹¸Íı
+K
+java:S2209&"5Change this instance-reference to a static reference.(‰Ëš¨
+F
+java:S2446'"0"notify" may not wake up the appropriate thread.(ŒâÌ†
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+t
+java:S2142@"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(·Á ùÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(¿Æ™Èûÿÿÿÿ
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¢­äËşÿÿÿÿ

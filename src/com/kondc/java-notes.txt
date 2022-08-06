@@ -1,0 +1,22 @@
+Points:
+
+Interfaces:
+- all methods are public static by default
+- all fields are public static final by default
+- From java 8, Interfaces can have default & static methods.
+
+
+
+acquiring lock
+    - Object level locking => synchronized(this) block, synchronized method
+    - Class level locking => synchronized(ClassName.class) block, synchronized static method
+
+Dependency Injection: is a design pattern
+	- is a way of injecting dependencies of a object.
+
+	- benefits
+		- (Loosly coupled application) Inside a class we use new keyword to create dependency.
+			This is bad design pattern as the signature or dependencies of the class may change,
+			and so we have to change intializaton in all classes.
+		- ease of testing the classes
+		- seperation of conserns, extensibilty

@@ -1,0 +1,33 @@
+
+TODO:
+--------------
+acquiring locks
+put vs putIfAbsent && get vs getOrDefault
+2 threads - synchronize
+    - notify() vs Thread.currentThread().notify()
+
+https://leetcode.com/contest/weekly-contest-287/problems/maximum-candies-allocated-to-k-children/
+https://leetcode.com/problems/next-permutation/
+
+dp:
+https://leetcode.com/problems/coin-change/
+
+- loop on hashmap
+    => keySet(), values()
+    => entrySet()   - getKey(), getValue()
+    => iterator on entrySet
+- loop on hashset
+
+** Java8 new features - Stream API, Functional
+
+** Functional Interfaces, SAM
+** ( :: ) operator
+- java8 forEach & how to use :: operator inside forEach
+
+** transient keyword ( PRExecRequestorStateImpl )
+
+
+
+New:
+-----
+what is the TC, SC of 39. combination sum problem.

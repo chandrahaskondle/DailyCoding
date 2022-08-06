@@ -1,0 +1,55 @@
+
+Redis vs Memcached:
+---------
+Redis
+- has datatypes
+- master/slave architecture
+- supports data persistence (2 different ways - RDB snapshot & AOF log)
+- has 6 diff types of algorithms for cache invalidation
+
+- regex search is possible in Redis (but not suggested in prod as it increases repsonse time)
+
+nosql vs mysql
+--------
+1) diff types of nosql db
+2) why mysql doesnt shard well when compared to nosql ?
+	- Your db will be normalized (atleast 3NF). After partitions in mysql db,
+	 	when you need list of courses attended by a user, you want to perform a join with another table.
+	 	That join should be done across the servers.
+	 	Suggested way is to deNormalise you db as much as possible for paritioning the db
+3) For consistent systems, mysql is preferred. Why ?
+ 	-
+
+
+Kafka: is a messaging system
+--------
+Pub - Sub
+Messages, Topics & Partitions, Brokers
+Replication Factor on a Topic
+highly scalable
+
+=> topics
+=> messaging ques
+=> message brokers
+
+Partitions: [21-05-22]
+----------
+Partition by Key Range
+Partition by hash of key
+
+
+Google docs: https://www.linkedin.com/pulse/google-docs-high-level-system-design-murat-atak
+
+
+Topics:
+===============
+NoSql
+Sharding
+Webscale
+Eventual Consistency
+ACID
+Cap Theorem
+Cloud Services
+Real-time
+
+

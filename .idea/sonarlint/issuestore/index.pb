@@ -1,0 +1,25 @@
+
+P
+ src/com/kondc/leetcode/p844.java,9\5\9508cd8d79bd3c81ad76e2ce05e11a7b3bb8bdb9
+T
+$src/com/kondc/java/LearnThread5.java,6\6\6694f25773f4f87465c8009cfd31bd173a54c27e
+V
+&src/com/kondc/leetcode/c287_p6055.java,b\2\b23002ae9a858b03c47b658a1729d6cbcf5f4805
+T
+$src/com/kondc/java/LearnThread3.java,7\b\7b9283d7f92c435b445935510a39156fffbba7ca
+T
+$src/com/kondc/java/LearnThread1.java,4\9\49bd8530d0cc5f4832bb5195e8960395a457f10a
+F
+src/com/kondc/todo.txt,c\b\cb15a86139ec1e7171b7b06d8d21288b1b77879d
+T
+$src/com/kondc/java/LearnThread4.java,0\c\0c3bf2c1ce76f7b55386d9eba2cb3d5cc17a0311
+T
+$src/com/kondc/java/LearnThread2.java,e\4\e4d272365932f54cf2f8908f8fcaab38480ee9b7
+V
+&src/com/kondc/leetcode/c287_p5235.java,0\e\0ee54d8f6845b62ee9a94593f0c4fc5c655033bf
+f
+6src/com/kondc/designpatterns/TestSingletonPattern.java,1\b\1b46b3b4610e45c26ef4617e6bd14400cf93ad64
+[
++src/com/kondc/dsa/recursion/Recursion1.java,3\7\3708f4b3703ee14515301971f1b1e12d78a4debd
+[
++src/com/kondc/dsa/recursion/Recursion2.java,0\4\04835ec277f8a52f775a7b50a18d391978586a52

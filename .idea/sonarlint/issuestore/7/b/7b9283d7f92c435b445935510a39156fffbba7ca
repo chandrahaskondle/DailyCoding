@@ -1,0 +1,20 @@
+
+@
+java:S1197"*Move the array designators [] to the type.(»á¸Ã
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+S	java:S106"9Replace this use of System.out or System.err by a logger.(àœÏ¾úÿÿÿÿ
+F
+java:S2446"0"notify" may not wake up the appropriate thread.(­ÀôÉ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ò·¼°
+F
+java:S2446"0"notify" may not wake up the appropriate thread.(­ÀôÉ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(»™ÿµùÿÿÿÿ
+^
+java:S1192"HDefine a constant instead of duplicating this literal "Thread0" 3 times.(ŠÖœ¬
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ŠÖœ¬
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(›ù»¯üÿÿÿÿ
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".( ¥ÂÈÿÿÿÿÿ

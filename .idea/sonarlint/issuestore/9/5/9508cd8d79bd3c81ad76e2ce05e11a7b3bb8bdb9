@@ -1,0 +1,8 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒýÿÿÿÿ
+E
+java:S2129"#Remove this "Character" constructor(ïîõ´ýÿÿÿÿ8®€ÄÖþ/
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(üçÛÀúÿÿÿÿ
